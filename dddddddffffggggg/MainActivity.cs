@@ -21,7 +21,7 @@ namespace dddddddffffggggg
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
 			Console.WriteLine ("hello");
-
+			Console.WriteLine ("hiiii");
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
